@@ -1,0 +1,10 @@
+{
+  "description": "Francetty: panadería artesanal, pastelería, cafetería y restaurante en Galerías, Bogotá. Tortas personalizadas, reservas para celebraciones y pedidos por WhatsApp o Rappi.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
